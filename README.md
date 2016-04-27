@@ -10,7 +10,7 @@ The classic browser game Slime Volleyball has been implemented in your favorite 
 
 ##Screenshot
 
-![screenshot showing env diagram](Gameplay.jpg)
+![screenshot](Gameplay.jpg)
 
 ##Concepts Demonstrated
 Identify the OPL concepts demonstrated in your project. Be brief. A simple list and example is sufficient. 
